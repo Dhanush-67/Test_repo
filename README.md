@@ -2,9 +2,9 @@
 
 A modern, responsive weather application built with React, TypeScript, and Tailwind CSS. Get real-time weather information for any location worldwide.
 
-![Weather App](https://img.shields.io/badge/React-18.3.1-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.17-blue)
+![Weather App](https://img.shields.io/badge/React-19.2.3-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9.3-blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.0-blue)
 
 ## 🌟 Features
 

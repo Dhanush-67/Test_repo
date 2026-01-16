@@ -1,6 +1,8 @@
 import { WeatherResponse } from '../types/weather.types';
 
 const BASE_URL = 'https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline';
+// TODO: Move to environment variable (import.meta.env.VITE_WEATHER_API_KEY) for production
+// For now, using hardcoded API key as per project requirements
 const API_KEY = 'CGCAWWNLHDKLDFCJ5ZVFH99W9';
 
 /**
